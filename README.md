@@ -1,4 +1,4 @@
-#PVF - Pathologic Video Fix
+PVF - Pathologic Video Fix
 
 (Pathologic Classic HD - Steam version)
 
