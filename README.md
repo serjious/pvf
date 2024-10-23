@@ -4,7 +4,7 @@ For some reason, Proton does not play game videos.
 The script recodes the video using the codec HEVC
 It seems to work. Here are the instructions.
 
-git clone ...
+git clone https://github.com/serjious/pvf.git
 
 chmod +x pvf.sh
 
