@@ -1,7 +1,11 @@
-PF - Pathologic Video Fix
+#PVF - Pathologic Video Fix
+
 (Pathologic Classic HD - Steam version)
+
 For some reason, Proton does not play game videos.
+
 The script recodes the video using the codec HEVC
+
 It seems to work. Here are the instructions.
 
 git clone https://github.com/serjious/pvf.git
